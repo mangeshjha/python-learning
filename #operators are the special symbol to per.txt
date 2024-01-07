@@ -1,0 +1,1 @@
+#operators are the special symbol to perform operations in python(or in any programming language)
