@@ -1,0 +1,25 @@
+#github configuration
+1.git config --global user.name "username"
+2.git config --global user.email "email"
+
+3. git config --global user.name
+4.git config --global user.email
+
+5.git init
+=> initiates a local repo
+
+6.git add .
+=>add all the changes 
+7.git commit -m "commit messGES"
+=>GIT COMMITS THE MESSAGES
+
+8. git remote add origin <ssh-link>
+
+9. git remote -v
+=>list all the remote repo ssh link 
+
+10. git push -u origin main
+=> push the remote repo 
+
+11. ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+=>generate key 
