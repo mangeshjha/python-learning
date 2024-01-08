@@ -1,0 +1,12 @@
+#git branching
+
+1. git branch 
+=>list all the branches and highlights the current/active branch
+
+2. git branch <branch_name>
+=>create a new branch
+
+3. git checkout <branch_name>
+=> jumps to the branch name provided
+
+4. git checkout -b <branch_name>
