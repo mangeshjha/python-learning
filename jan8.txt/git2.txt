@@ -1,0 +1,13 @@
+pull request
+=> it is the way of merging two branches by comparing  the changes and is done in the github.
+
+1.create a new branch (branch3)
+2.add some changes to this branch
+3.add git  .
+4.git commit -m"......"
+5.git push -u origin branch 3
+6. go to git hub
+7.create a pull request from branch3 to main branch
+8.merge to pull request(pr)
+9.go to main branch in the local
+10.git pull
