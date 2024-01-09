@@ -1,0 +1,13 @@
+1. python -m venv venv 
+=>creates a mew virtual environment
+
+2.venv\Scriptes\activate
+=>activates the virtual environment
+
+3. decativate
+4.pip install<package_name>
+5.pip freeze
+=>list all the installed packages
+
+6.pip freeze>requirements.txt
+7.pip install -r <file_name>.txt=>install the packages one by one
