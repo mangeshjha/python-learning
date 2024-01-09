@@ -10,3 +10,9 @@
 => jumps to the branch name provided
 
 4. git checkout -b <branch_name>
+
+5. git merge branch1
+=> merge main branch and local branch 
+
+6. git push
+=> push local to main github .
