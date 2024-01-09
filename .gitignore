@@ -1,4 +1,4 @@
-#github configuration
+.#github configuration
 1.git config --global user.name "username"
 2.git config --global user.email "email"
 
@@ -10,6 +10,7 @@
 
 6.git add .
 =>add all the changes 
+
 7.git commit -m "commit messGES"
 =>GIT COMMITS THE MESSAGES
 
