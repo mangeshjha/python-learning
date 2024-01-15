@@ -1,0 +1,21 @@
+1.venv\Scripts\activate
+=> activate  virtual environment
+
+2.pip install flake8
+=>it install the packages(virtual environment packages)inside the Venv 
+
+3.deactivate
+=> deactiavte venv
+
+4.flake8
+=> status about flake8 installed in global environment(it checkes the standard of syntx)
+
+5.flake8 --version 
+=>check the flake8 package version
+
+6.uninstall flake8
+=>install the packages from global environment
+
+7.
+
+
